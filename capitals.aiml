@@ -1,0 +1,2932 @@
+<aiml version="2.0">
+
+<!--1 1A -->
+
+<category>
+	<pattern>
+	  AFGHANISTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Afghanistan is Kabul</li>
+				<li>Kabul is the capital of Afghanistan</li> 
+				<li>Kabul</li>
+			</random>
+		</template>
+</category>
+
+<!--2 2A -->
+
+<category>
+	<pattern>
+	  ALBENIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Albenia is Tirana</li>
+				<li>Tirana is the capital of Albenia</li> 
+				<li>That would be Tirana fam</li>
+			</random>
+		</template>
+</category>
+
+<!--3 3A -->
+
+<category>
+	<pattern>
+	  ALGERIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Algeria is Algiers</li>
+				<li>Algiers is the capital of Algeria</li> 
+				<li>*Searching database* The anwser is Aligers</li>
+			</random>
+		</template>
+</category>
+
+<!--4 4A -->
+
+<category>
+	<pattern>
+	  ANDORRA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Andorra is Anddora la Vella</li>
+				<li>Anddora la Vella is the capital of Anddora</li> 
+				<li>Andorra la Vella</li>
+			</random>
+		</template>
+</category>
+
+<!--5 5A -->
+
+<category>
+	<pattern>
+	  ANGOLA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Angola is Luanda</li>
+				<li>Luanda is the capital of Angola</li> 
+				<li>Luanda</li>
+			</random>
+		</template>
+</category>
+
+<!--6 6A -->
+
+<category>
+	<pattern>
+	  ANTIGUA AND BARBUDA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Antigua and Barbuda is St. John's</li>
+				<li>St. John's is the capital of Antigua and Barbuda</li> 
+				<li>St. John's</li>
+			</random>
+		</template>
+</category>
+
+<!--7 7A -->
+
+<category>
+	<pattern>
+	  ARGENTINA
+	 </pattern> 
+		<template>
+			<random>
+				<li>The capital of Argentina is Buenos Aires</li>
+				<li>Buenos Aires is the capital of Argentina</li> 
+				<li>Buenos Aires</li>
+			</random>
+		</template>
+</category>
+
+<!--8 8A -->
+
+<category>
+	<pattern>
+	  ARMENIA 
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Armenia is Yerevan</li>
+				<li>Yerevan is the capital of Armenia</li> 
+				<li>Yerevan</li>
+			</random>
+		</template>
+</category>
+
+<!--9 9A -->
+
+<category>
+	<pattern>
+	  AUSTRALLIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Australlia is Canberra</li>
+				<li>Canberra is the capital of Australlia</li> 
+				<li>Canberra</li>
+			</random>
+		</template>
+</category>
+
+<!--10 10A -->
+
+<category>
+	<pattern>
+	  AUSTRIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Austria is Vienna</li>
+				<li>Vienna is the capital of Austria</li> 
+				<li>Vienna</li>
+			</random>
+		</template>
+</category>
+
+<!--11 11A -->
+
+<category>
+	<pattern>
+	  AZERBAIJAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Azerbaijan is Baku</li>
+				<li>Baku is the capital of Azerbaijan</li> 
+				<li>Baku</li>
+			</random>
+		</template>
+</category>
+
+<!--12 1B -->
+
+<category>
+	<pattern>
+	  BAHAMAS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bahamas is Nassau</li>
+				<li>Nassau is the capital of Bahamas</li> 
+				<li>Nassau</li>
+			</random>
+		</template>
+</category>
+
+<!--13 2B -->
+
+<category>
+	<pattern>
+	  BAHRAIN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bahrain is Manama</li>
+				<li>Manama is the capital of Bahrain</li> 
+				<li>Manama</li>
+			</random>
+		</template>
+</category>
+
+<!--14 3B -->
+
+<category>
+	<pattern>
+	  BANGLADESH
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bangladesh is Dhaka</li>
+				<li>Dhaka is the capital of Bangladesh</li> 
+				<li>Dhaka</li>
+			</random>
+		</template>
+</category>
+
+<!--15 4B -->
+
+<category>
+	<pattern>
+	  BARBADOS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Barbados is Bridgetown</li>
+				<li>Bridgetown is the capital of Barbados</li> 
+				<li>Bridgetown</li>
+			</random>
+		</template>
+</category>
+
+<!--16 5B -->
+
+<category>
+	<pattern>
+	  BELARUS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Belarus is Minsk</li>
+				<li>Minsk is the capital of Belarus</li> 
+				<li>Minsk</li>
+			</random>
+		</template>
+</category>
+
+<!--17 6B -->
+
+<category>
+	<pattern>
+	  BELGIUM
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Belgium is Brussels</li>
+				<li>Brussels is the capital of Belgium</li> 
+				<li>Brussels</li>
+			</random>
+		</template>
+</category>
+
+<!--18 7B -->
+
+<category>
+	<pattern>
+	  BELIZE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Belize is Belmopan</li>
+				<li>Belmopan is the capital of Belize</li> 
+				<li>Belmopan</li>
+			</random>
+		</template>
+</category>
+
+<!--19 8B -->
+
+<category>
+	<pattern>
+	  BENIN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Benin is Porto-Novo</li>
+				<li>Porto-Novo is the capital of Benin</li> 
+				<li>Porto-Novo</li>
+			</random>
+		</template>
+</category>
+
+<!--20 9B -->
+
+<category>
+	<pattern>
+	  BHUTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bhutan is Thimphu</li>
+				<li>Thimphu is the capital of Bhutan</li> 
+				<li>Bhutan</li>
+			</random>
+		</template>
+</category>
+
+<!--21 10B -->
+
+<category>
+	<pattern>
+	  BOLIVIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bolivia is La Paz(administrative) and Sucre(Judicial)</li>
+				<li>Bolivia is one of the few countries to have more then one offical capital. La Paz id the Administrative capital and Sucre is the judicial</li> 
+				<li>Bolivia has two capitals, La Paz and Sucre</li>
+			</random>
+		</template>
+</category>
+
+
+
+<!--22 11B -->
+
+<category>
+	<pattern>
+	  BOSNIA AND HERZEGOVINA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bosnia and Herzegovina is Sarajevo</li>
+				<li>Sarajevo is the capital of Bosnia and Herzegovvina</li> 
+				<li>Sarajevo</li>
+			</random>
+		</template>
+</category>
+
+<!--23 12B -->
+
+<category>
+	<pattern>
+	  BOTSWANA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Botswana is Gaborone</li>
+				<li>Gaborone is the capital of Botswana</li> 
+				<li>Gaborone</li>
+			</random>
+		</template>
+</category>
+
+<!--24 13B -->
+
+<category>
+	<pattern>
+	  BRAZIL
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Brazil is Brasilia</li>
+				<li>Brasilia is the capital of Brazil</li> 
+				<li>Brasilia</li>
+			</random>
+		</template>
+</category>
+
+<!--25 14B -->
+
+<category>
+	<pattern>
+	  BRUNEI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Brunei is Bandar Seri Begawan</li>
+				<li>Bandar Seri Bagawan is the capital of Brunei</li> 
+				<li>Bandar Serii Bgawan</li>
+			</random>
+		</template>
+</category>
+
+<!--26 17B -->
+
+<category>
+	<pattern>
+	  BULGARIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Bulgaria is Solfia </li>
+				<li>Solfia is the capital of Bulgaria</li> 
+				<li>Solfia</li>
+			</random>
+		</template>
+</category>
+
+<!--27 18B -->
+
+<category>
+	<pattern>
+	  	BURKINA FASO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Burkina Faso is Ouagadougou </li>
+				<li>Ouagadougou is the capital of Burkina Faso</li> 
+				<li>Ouagadougou...Try saying that five times fast!</li>
+			</random>
+		</template>
+</category>
+
+<!--28 19B -->
+
+<category>
+	<pattern>
+	  BURUNDI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Burundi is Bujumbura </li>
+				<li>Bujumbura is the capital of Burundi</li> 
+				<li>Bujumbura</li>
+			</random>
+		</template>
+</category>
+
+<!--29 1C -->
+
+<category>
+	<pattern>
+	  CABO VERDE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cabo Verde is Praia </li>
+				<li>Praia is the capital of Cabo Verde</li> 
+				<li>Praia</li>
+			</random>
+		</template>
+</category>
+
+<!--30 2C -->
+
+<category>
+	<pattern>
+	  CAMBODIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cambodia is Phnom Penh </li>
+				<li>Phnom Penh is the capital of Cambodia</li> 
+				<li>Phnom Penh</li>
+			</random>
+		</template>
+</category>
+
+<!--31 3C -->
+
+<category>
+	<pattern>
+	  CAMEROON
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cameroon is Yaounde </li>
+				<li>Yaounde is the capital of Cameroon</li> 
+				<li>Yaounde</li>
+			</random>
+		</template>
+</category>
+
+<!--32 4C -->
+
+<category>
+	<pattern>
+	  CANADA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Canada is Ottawa </li>
+				<li>Ottawa is the capital of Canada</li> 
+				<li>Ottawa</li>
+			</random>
+		</template>
+</category>
+
+<!--33 5C -->
+
+<category>
+	<pattern>
+	  CENTRAL AFRICAN REPUBLIC
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Central African Republic is Bangui </li>
+				<li>Bujumbura is the capital of Central African Bangui</li> 
+				<li>Bangui</li>
+			</random>
+		</template>
+</category>
+
+<!-- 34 6C -->
+
+<category>
+	<pattern>
+	  CHAD
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Chad is N'Djamena </li>
+				<li>N'Djamena is the capital of Chad</li> 
+				<li>N'Djamena</li>
+			</random>
+		</template>
+</category>
+
+<!-- 35 7C -->
+
+<category>
+	<pattern>
+	  Chile
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of China is Santiago </li>
+				<li>Santiago is the capital of Chile</li> 
+				<li>Santiago</li>
+			</random>
+		</template>
+</category>
+
+<!--36 8C -->
+
+<category>
+	<pattern>
+	  CHINA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of China is Beijing </li>
+				<li>Beijing is the capital of China</li> 
+				<li>Beijing</li>
+			</random>
+		</template>
+</category>
+
+<!--37 9C -->
+
+<category>
+	<pattern>
+	  COLOMBIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Colombia is Bogotá </li>
+				<li>Bogotá is the capital of </li> 
+				<li>Bogotá</li>
+			</random>
+		</template>
+</category>
+
+<!-- 38 10C -->
+
+<category>
+	<pattern>
+	  COMOROS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Comoros is Moroni </li>
+				<li>Moroni is the capital of Comoros</li> 
+				<li>Moroni</li>
+			</random>
+		</template>
+</category>
+
+<!-- 39 11C -->
+
+<category>
+	<pattern>
+	  THE DEMOCRATIC REPUBLIC OF THE CONGO
+	 </pattern>
+	<pattern>
+	 DRC
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Democratic Republic of the Congo is Kinshasa </li>
+				<li>Kinshasa is the capital of the Democratic Republic of the Congo</li> 
+				<li>Kinshasa</li>
+			</random>
+		</template>
+</category>
+
+<!--40 112C -->
+
+<category>
+	<pattern>
+	  THE REPUBLIC OF THE CONGO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the Republic of the Congo is Brazzaville </li>
+				<li>Brazzaville is the capital of the Republic of the Congo</li> 
+				<li>Brazzaville</li>
+			</random>
+		</template>
+</category>
+
+<!--41 12C -->
+
+<category>
+	<pattern>
+	  COSTA RICA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Costa Rica is San Jose </li>
+				<li>San Jose is the capital of Costa Rica</li> 
+				<li>San Jose</li>
+			</random>
+		</template>
+</category>
+
+<!--41 13C -->
+
+<category>
+	<pattern>
+	  COTE D'IVOIRE
+	 </pattern>
+	<pattern>
+	COTE D IVOIRE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cote d'Ivoire is Yamoussoukro </li>
+				<li>Yamoussoukro is the capital of Cote d'Ivoire</li> 
+				<li>Yamoussoukro</li>
+			</random>
+		</template>
+</category>
+
+<!--42 14C -->
+
+<category>
+	<pattern>
+	  CUBA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cuba is Havana</li>
+				<li>Havana is the capital of Cuba</li> 
+				<li>Havana</li>
+			</random>
+		</template>
+</category>
+
+<!-- 43 15C -->
+
+<category>
+	<pattern>
+	  CYPRUS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Cyprus is Nicosia </li>
+				<li>Nicosia is the capital of Cyprus</li> 
+				<li>Nicosia</li>
+			</random>
+		</template>
+</category>
+
+<!-- 44 16C -->
+
+<category>
+	<pattern>
+	  CZECH REPUBLIC
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Czech Republic is Prague </li>
+				<li>Prague is the capital of Czech Republic</li> 
+				<li>Prague</li>
+			</random>
+		</template>
+</category>
+
+<!-- 45 1D -->
+
+<category>
+	<pattern>
+	  DENKARK
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Denmark is Copenhagen </li>
+				<li>Copenhagen is the capital of Denmark</li> 
+				<li>Copenhagen</li>
+			</random>
+		</template>
+</category>
+
+<!--46 2D -->
+
+<category>
+	<pattern>
+	  DJIBOUTI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Djibouti is Djibouti </li>
+				<li>Djibouti is the capital of Djibouti</li> 
+				<li>Djibouti Djibouti</li>
+			</random>
+		</template>
+</category>
+
+<!-- 47 3D -->
+
+<category>
+	<pattern>
+	  DOMINICA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Dominica is Roseau </li>
+				<li>Roseau is the capital of Dominica</li> 
+				<li>Roseau</li>
+			</random>
+		</template>
+</category>
+
+<!-- 48 4D -->
+
+<category>
+	<pattern>
+	   THE Dominican Republic
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of  the Dominican Republic is Santo Domingo </li>
+				<li>Santo Domingo is the capital of the Dominican Republic </li> 
+				<li>Santo Domingo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 49 1E -->
+
+<category>
+	<pattern>
+	  ECUADOR
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Ecuador is Quito </li>
+				<li>Quito is the capital of Ecuador</li> 
+				<li>Quito</li>
+			</random>
+		</template>
+</category>
+
+<!-- 50 2E -->
+
+<category>
+	<pattern>
+	  EGYPT
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Egypt is Cairo </li>
+				<li>Cairo is the capital of Egypt</li> 
+				<li>Cairo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 51 3E -->
+
+<category>
+	<pattern>
+	  El SALVADOR
+	 </pattern>
+	 		<template>
+			<random>
+				<li>The capital of El Salvador is San Salvador </li>
+				<li>San Salvador is the capital of El Salvador</li> 
+				<li>San Salvador</li>
+			</random>
+		</template>
+</category>
+
+<!-- 52 4E -->
+
+<category>
+	<pattern>
+	  EQUATORIAL GUINEA
+	 </pattern>
+	 		<template>
+			<random>
+				<li>The capital of Equatorial Guinea is Malabo </li>
+				<li>Malabo is the capital of Equatorial Guinea</li> 
+				<li>Malabo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 53 5E -->
+
+<category>
+	<pattern>
+	  ERITREA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Eritrea is Asmara </li>
+				<li>Asmara is the capital of Eritrea</li> 
+				<li>Asmara</li>
+			</random>
+		</template>
+</category>
+
+<!-- 54 6E -->
+
+<category>
+	<pattern>
+	  ESTONIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Estonia is Tallinn </li>
+				<li>Tallinn is the capital of Estonia</li> 
+				<li>Tallinn</li>
+			</random>
+		</template>
+</category>
+
+<!-- 55 7E -->
+
+<category>
+	<pattern>
+	  ETHIOPIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Ethiopia is Addis Ababa </li>
+				<li>Addis Ababa is the capital of Ethiopia</li> 
+				<li>Addis Ababa</li>
+			</random>
+		</template>
+</category>
+
+<!-- 56 1F -->
+
+<category>
+	<pattern>
+	  FIJI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Fiji is Suva </li>
+				<li>Suva is the capital of Fiji</li> 
+				<li>Suva</li>
+			</random>
+		</template>
+</category>
+
+<!-- 57 2F -->
+
+<category>
+	<pattern>
+	  FINLAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Finland is Helsinki </li>
+				<li>Helsinki is the capital of Finland</li> 
+				<li>Helsinki</li>
+			</random>
+		</template>
+</category>
+
+<!-- 58 3F -->
+
+<category>
+	<pattern>
+	  FRANCE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of France is Paris </li>
+				<li>Paris is the capital of France</li> 
+				<li>Paris</li>
+			</random>
+		</template>
+</category>
+
+<!-- 59 G1 -->
+
+<category>
+	<pattern>
+	  GABON
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Gabon is Libreville </li>
+				<li>Libreville is the capital of Gabon</li> 
+				<li>Libreville</li>
+			</random>
+		</template>
+</category>
+
+<!-- 60 G2 -->
+
+<category>
+	<pattern>
+	  GAMBIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Gambia is Banjul </li>
+				<li>Banjul is the capital of Gambia</li> 
+				<li>Banjul</li>
+			</random>
+		</template>
+</category>
+
+<!-- 61 G3 -->
+
+<category>
+	<pattern>
+	  GEORGIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Georgia is Tbilisi </li>
+				<li>Tbilisi is the capital of Georgia</li> 
+				<li>Tbilisi</li>
+			</random>
+		</template>
+</category>
+
+<!-- 62 G4 -->
+
+<category>
+	<pattern>
+	  GERMANY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Germany is Berlin </li>
+				<li>Berlin is the capital of Germany</li> 
+				<li>Berlin</li>
+			</random>
+		</template>
+</category>
+
+<!-- 63 G5 -->
+
+<category>
+	<pattern>
+	  GHANA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Ghana is Accra </li>
+				<li>Accra is the capital of Ghana</li> 
+				<li>Accra</li>
+			</random>
+		</template>
+</category>
+
+<!-- 64 G6 -->
+
+<category>
+	<pattern>
+	  GREECE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Greece is Athens </li>
+				<li>Athens is the capital of Greece</li> 
+				<li>Athens</li>
+			</random>
+		</template>
+</category>
+
+<!-- 65 G7 -->
+
+<category>
+	<pattern>
+	  GRENADA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Grenada is St. George's </li>
+				<li>St. George's is the capital of Grenada</li> 
+				<li>St. George's</li>
+			</random>
+		</template>
+</category>
+
+<!-- 66 G8 -->
+
+<category>
+	<pattern>
+	  GUATEMALA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Guatemala is Guatemala City </li>
+				<li>Guatemala City is the capital of Guatemala</li> 
+				<li>Guatemala City</li>
+			</random>
+		</template>
+</category>
+
+<!-- 69 G9 -->
+
+<category>
+	<pattern>
+	  GUINEA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Guinea is Conakry </li>
+				<li>Conakry is the capital of Guinea</li> 
+				<li>Conakry</li>
+			</random>
+		</template>
+</category>
+
+<!-- 70 G10 -->
+
+<category>
+	<pattern>
+	  GUINEA-BISSAU
+	 </pattern>
+	<pattern>
+	GUINEA BISSAU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Guinea-Bissau is Copenhagen </li>
+				<li>Copenhagen is the capital of Guinea-Bissau</li> 
+				<li>Bujumbura</li>
+			</random>
+		</template>
+</category>
+
+<!--71 G11 -->
+
+<category>
+	<pattern>
+	  GUYANA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Guyana is Georgetown </li>
+				<li>Georgetown is the capital of Guyana</li> 
+				<li>Georgetown</li>
+			</random>
+		</template>
+</category>
+
+<!-- 72 H1 -->
+
+<category>
+	<pattern>
+	  HAITI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Haiti is Port-au-Prince </li>
+				<li>Port-au-Prince is the capital of Haiti</li> 
+				<li>Port-au-Prince</li>
+			</random>
+		</template>
+</category>
+
+<!-- 73 H2 -->
+
+<category>
+	<pattern>
+	  HONDURAS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Honduras is Tegucigalpa </li>
+				<li>Tegucigalpa is the capital of Honduras</li> 
+				<li>Tegucigalpa</li>
+			</random>
+		</template>
+</category>
+
+<!-- 74 H3 -->
+
+<category>
+	<pattern>
+	  Hungary
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Hungary is Budapest </li>
+				<li>Budapest is the capital of Hungary</li> 
+				<li>Budapest</li>
+			</random>
+		</template>
+</category>
+
+<!-- 75 I1 -->
+
+<category>
+	<pattern>
+	  ICELAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Iceland is Reykjavik </li>
+				<li>Reykjavik is the capital of Iceland</li> 
+				<li>Reykjavik</li>
+			</random>
+		</template>
+</category>
+
+<!-- 76 I2 -->
+
+<category>
+	<pattern>
+	  INDIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of India is New Delhi </li>
+				<li>New Delhi is the capital of India</li> 
+				<li>New Delhi</li>
+			</random>
+		</template>
+</category>
+
+<!-- 77 I3 -->
+
+<category>
+	<pattern>
+	  INDONESIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Indonesia is Jakarta </li>
+				<li>Jakarta is the capital of Indonesia</li> 
+				<li>Jakarta</li>
+			</random>
+		</template>
+</category>
+
+<!-- 78 I4 -->
+
+<category>
+	<pattern>
+	  IRAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Iran is Tehran </li>
+				<li>Tehran is the capital of Iran</li> 
+				<li>Tehran</li>
+			</random>
+		</template>
+</category>
+
+<!-- 79 I5 -->
+
+<category>
+	<pattern>
+	  IRAQ
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Iraq is Baghdad </li>
+				<li>Baghdad is the capital of Iraq</li> 
+				<li>Baghdad</li>
+			</random>
+		</template>
+</category>
+
+<!-- 80 I6 -->
+
+<category>
+	<pattern>
+	  IRELAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Ireland is Dublin </li>
+				<li>Dublin is the capital of Ireland</li> 
+				<li>Dublin</li>
+			</random>
+		</template>
+</category>
+
+<!-- 81 I7 -->
+
+<category>
+	<pattern>
+	  ISRAEL
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Israel is Jerusalem </li>
+				<li>Jerusalem is the capital of Israel</li> 
+				<li>Jerusalem</li>
+			</random>
+		</template>
+</category>
+
+<!-- 82 I8 -->
+
+<category>
+	<pattern>
+	  ITALY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Italy is Rome </li>
+				<li>Rome is the capital of Italy</li> 
+				<li>Rome</li>
+			</random>
+		</template>
+</category>
+
+<!-- 83 J1 -->
+
+<category>
+	<pattern>
+	  JAMAICA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Jamaica is Kingston </li>
+				<li>Kingston is the capital of Jamaica</li> 
+				<li>Kingston</li>
+			</random>
+		</template>
+</category>
+
+<!-- 84 J2 -->
+
+<category>
+	<pattern>
+	  JAPAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Japan is Tokyo </li>
+				<li>Tokyo is the capital of Japan</li> 
+				<li>Tokyo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 85 J3 -->
+
+<category>
+	<pattern>
+	  JORDAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Jordan is Amman </li>
+				<li>Amman is the capital of Jordan</li> 
+				<li>Amman</li>
+			</random>
+		</template>
+</category>
+
+<!-- 86 K1 -->
+
+<category>
+	<pattern>
+	  KAZAKHSTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kazakhstan is Astana </li>
+				<li>Astana is the capital of Kazakhstan</li> 
+				<li>Astana</li>
+			</random>
+		</template>
+</category>
+
+<!-- 87 K2 -->
+
+<category>
+	<pattern>
+	  KENYA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kenya is Nairobi </li>
+				<li>Nairobi is the capital of Kenya</li> 
+				<li>Nairobi</li>
+			</random>
+		</template>
+</category>
+
+<!-- 88 K3-->
+
+<category>
+	<pattern>
+	  KIRIBATI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kiribati is South Tarawa </li>
+				<li>South Tarawa is the capital of Kiribati</li> 
+				<li>South Tarawa</li>
+			</random>
+		</template>
+</category>
+
+<!-- 89 K4 -->
+
+<category>
+	<pattern>
+	  KOSOVO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kosovo is Pristina </li>
+				<li>Pristina is the capital of Kosovo</li> 
+				<li>Pristina</li>
+			</random>
+		</template>
+</category>
+
+<!-- 90 K5 -->
+
+<category>
+	<pattern>
+	  KUWAIT
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kuwait is Kuwait City </li>
+				<li>Kuwait City is the capital of Kuwait</li> 
+				<li>Kuwait City</li>
+			</random>
+		</template>
+</category>
+
+<!-- 91 K6 -->
+
+<category>
+	<pattern>
+	  KYRGYZSTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Kyrgyzstan is Bishkek </li>
+				<li>Bishkek is the capital of Kyrgyzstan</li> 
+				<li>Bishkek</li>
+			</random>
+		</template>
+</category>
+
+<!-- 92 L1 -->
+
+<category>
+	<pattern>
+	  LAOS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Laos is Vientiane </li>
+				<li>Vientiane is the capital of Laos</li> 
+				<li>Vientiane</li>
+			</random>
+		</template>
+</category>
+
+<!-- 93 L2 -->
+
+<category>
+	<pattern>
+	  LATVIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Latvia is Riga </li>
+				<li>Riga is the capital of Latvia</li> 
+				<li>Riga</li>
+			</random>
+		</template>
+</category>
+
+<!-- 94 L3 -->
+
+<category>
+	<pattern>
+	  LEBANON
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Lebanon is Beirut </li>
+				<li>Beirut is the capital of Lebanon</li> 
+				<li>Beirut</li>
+			</random>
+		</template>
+</category>
+
+<!-- 95 L4 -->
+
+<category>
+	<pattern>
+	  LESOTHO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Lesotho is Maseru </li>
+				<li>Maseru is the capital of Lesotho</li> 
+				<li>Maseru</li>
+			</random>
+		</template>
+</category>
+
+<!-- 96 L5 -->
+
+<category>
+	<pattern>
+	  Liberia
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Liberia is Monrovia </li>
+				<li>Monrovia is the capital of Liberia</li> 
+				<li>Monrovia</li>
+			</random>
+		</template>
+</category>
+
+<!-- 97 L6 -->
+
+<category>
+	<pattern>
+	  LIBYA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Libya is Tripoli </li>
+				<li>Tripoli is the capital of Libya</li> 
+				<li>Tripoli</li>
+			</random>
+		</template>
+</category>
+
+<!-- 98 L7 -->
+
+<category>
+	<pattern>
+	  LIECHTENSTEIN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Liechtenstein is Vaduz </li>
+				<li>Vaduz is the capital of Liechtenstein</li> 
+				<li>Vaduz</li>
+			</random>
+		</template>
+</category>
+
+<!-- 99 L8 -->
+
+<category>
+	<pattern>
+	  LITHUANIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Lithuania is Vilnius </li>
+				<li>Vilnius is the capital of Lithuania</li> 
+				<li>Vilnius</li>
+			</random>
+		</template>
+</category>
+
+<!-- 100 L9 -->
+
+<category>
+	<pattern>
+	  LUXEMBOURG
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Luxembourg is Luxembourg </li>
+				<li>Luxembourg is the capital of Luxembourg</li> 
+				<li>Luxembourg</li>
+			</random>
+		</template>
+</category>
+
+<!-- 101 M1 -->
+
+<category>
+	<pattern>
+	  MACEDONIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Macedonia is Skopje </li>
+				<li>Skopje is the capital of Macedonia</li> 
+				<li>Skopje</li>
+			</random>
+		</template>
+</category>
+
+<!-- 102 M2 -->
+
+<category>
+	<pattern>
+	  MADAGASCAR
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Madagascar is Antananarivo</li>
+				<li>Antananarivo is the capital of Madagascar</li> 
+				<li>Antananarivo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 103 M3 -->
+
+<category>
+	<pattern>
+	  MALAWI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Malawi is Lilongwe </li>
+				<li>Lilongwe is the capital of Malawi</li> 
+				<li>Lilongwe</li>
+			</random>
+		</template>
+</category>
+
+<!-- 104 M4 -->
+
+<category>
+	<pattern>
+	  MALAYSIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Malaysia is Kuala Lumpur </li>
+				<li>Kuala Lumpur is the capital of Malaysia</li> 
+				<li>Kuala Lumpur</li>
+			</random>
+		</template>
+</category>
+
+<!-- 105 M5 -->
+
+<category>
+	<pattern>
+	  MALDIVES
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Maldives is Male </li>
+				<li>Male is the capital of Maldives</li> 
+				<li>Male</li>
+			</random>
+		</template>
+</category>
+
+<!-- 106 M6 -->
+
+<category>
+	<pattern>
+	  MALI
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Mali is Bamako </li>
+				<li>Bamako is the capital of Mali</li> 
+				<li>Bamako</li>
+			</random>
+		</template>
+</category>
+
+<!-- 107 M7 -->
+
+<category>
+	<pattern>
+	  MALTA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Malta is Valletta </li>
+				<li>Valletta is the capital of Malta</li> 
+				<li>Valletta</li>
+			</random>
+		</template>
+</category>
+
+<!-- 108 M8 -->
+
+<category>
+	<pattern>
+	  MARSHALL ISLANDS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the Marshall Islands is Majuro </li>
+				<li>Majuro is the capital of the Marshall Islands</li> 
+				<li>Majuro</li>
+			</random>
+		</template>
+</category>
+
+<!-- 109 M9 -->
+
+<category>
+	<pattern>
+	  MAURITANIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Mauritania is Nouakchott </li>
+				<li>Nouakchott is the capital of Mauritania </li> 
+				<li>Nouakchott</li>
+			</random>
+		</template>
+</category>
+
+<!-- 110 M10 -->
+
+<category>
+	<pattern>
+	  MAURITIUS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Mauritius is Port Louis </li>
+				<li>Port Louis is the capital of Mauritius</li> 
+				<li>Port Louis</li>
+			</random>
+		</template>
+</category>
+
+<!-- 111 M11 -->
+
+<category>
+	<pattern>
+	  MEXICO
+	 </pattern>
+		<template>
+			<random>
+				<li>Mexico City is the capital of Mexico</li> 
+				<li>Mexico City</li>
+			</random>
+		</template>
+</category>
+
+<!-- 112 M12 -->
+
+<category>
+	<pattern>
+	  MICRONESIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Micronesia is Palikir </li>
+				<li>Palikir is the capital of Micronesia</li> 
+				<li>Palikir</li>
+			</random>
+		</template>
+</category>
+
+<!-- 113 M13 -->
+
+<category>
+	<pattern>
+	  MOLDOVA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Moldova is Chisinau </li>
+				<li>Chisinau is the capital of Moldova</li> 
+				<li>Moldova</li>
+			</random>
+		</template>
+</category>
+
+<!-- 114 M14 -->
+
+<category>
+	<pattern>
+	  MONACO
+	 </pattern>
+		<template>
+			Monaco is a city state, and therefor its own capital
+		</template>
+</category>
+
+<!-- 115 M15 -->
+
+<category>
+	<pattern>
+	  MONGOLIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Mongolia is Ulaanbaatar </li>
+				<li>Ulaanbaatar is the capital of Mongolia</li> 
+				<li>Ulaanbaatar</li>
+			</random>
+		</template>
+</category>
+
+<!-- 116 M16 -->
+
+<category>
+	<pattern>
+	  MONTENEGRO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Montenegro is Podgorica </li>
+				<li>Podgorica is the capital of Montenegro</li> 
+				<li>Podgorica</li>
+			</random>
+		</template>
+</category>
+
+<!-- 117 M17 -->
+
+<category>
+	<pattern>
+	  MOROCCO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Morocco is Rabat </li>
+				<li>Rabat is the capital of Morocco</li> 
+				<li>Rabat</li>
+			</random>
+		</template>
+</category>
+
+<!-- 118 M18 -->
+
+<category>
+	<pattern>
+	  MOZAMBIQUE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Mozambique is Maputo </li>
+				<li>Maputo is the capital of Mozambique</li> 
+				<li>Maputo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 119 M19 -->
+
+<category>
+	<pattern>
+	  MYANMAR
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Myanmar is Naypyidaw</li>
+				<li>Naypyidaw is the capital of Myanmar</li> 
+				<li>Naypyidaw</li>
+			</random>
+		</template>
+</category> 
+
+<category>
+	<pattern>
+	BURMA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Myanmar is Naypyidaw</li>
+				<li>Naypyidaw is the capital of Myanmar</li> 
+				<li>Naypyidaw</li>
+			</random>
+		</template>
+</category>
+
+<!-- 120 N1 -->
+
+<category>
+	<pattern>
+	  NAMIBIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Namibia is Windhoek</li>
+				<li>Windhoek is the capital of Namibia</li> 
+				<li>Windhoek</li>
+			</random>
+		</template>
+</category>
+
+<!-- 121 N2 -->
+
+<category>
+	<pattern>
+	  NAURU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Nauru is Yaren </li>
+				<li>Yaren is the capital of Nauru</li> 
+				<li>Yaren</li>
+			</random>
+		</template>
+</category>
+
+<!-- 121 N3 -->
+
+<category>
+	<pattern>
+	  NEPAL
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Nepal is Kathmandu </li>
+				<li>Kathmandu is the capital of Nepal</li> 
+				<li>Kathmandu</li>
+			</random>
+		</template>
+</category>
+
+<!-- 122 N4 -->
+
+<category>
+	<pattern>
+	  NETHERLANDS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Netherlands is Amsterdam </li>
+				<li>Amsterdam is the capital of Netherlands</li> 
+				<li>Amsterdam</li>
+			</random>
+		</template>
+</category>
+
+<!-- 123 N5 -->
+
+<category>
+	<pattern>
+	  NEW ZEALAND
+	</pattern>
+		<template>
+			<random>
+				<li>The capital of New Zealand is Wellington </li>
+				<li>Wellington is the capital of New Zealand</li> 
+				<li>Wellington</li>
+			</random>
+		</template>
+</category>
+
+<!-- 124 N6 -->
+
+<category>
+	<pattern>
+	  NICARAGUA
+	</pattern>
+	
+		<template>
+			<random>
+				<li>The capital of Nicaragua is Managua </li>
+				<li>Managua is the capital of Nicaragua</li> 
+				<li>Managua</li>
+			</random>
+		</template>
+</category>
+
+<!-- 125 N7 -->
+
+<category>
+	<pattern>
+	  NIGER
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Niger is Niamey </li>
+				<li>Niamey is the capital of Niger</li> 
+				<li>Niamey</li>
+			</random>
+		</template>
+</category>
+
+<!-- 126 N8 -->
+
+<category>
+	<pattern>
+	  NIGERIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Nigeria is Abuja </li>
+				<li>Abuja is the capital of Nigeria</li> 
+				<li>Abuja</li>
+			</random>
+		</template>
+</category>
+
+<!-- 127 N9 -->
+
+<category>
+	<pattern>
+	  NORTH KOREA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of North Korea is Pyongyang </li>
+				<li>Pyongyang is the capital of North Korea</li> 
+				<li>Pyongyang</li>
+			</random>
+		</template>
+</category>
+
+<!-- 128 N10 -->
+
+<category>
+	<pattern>
+	  NORWAY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Norway is Oslo</li>
+				<li>Oslo is the capital of Norway</li> 
+				<li>Oslo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 129 1O  -->
+
+<category>
+	<pattern>
+	  OMAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Oman is Muscat</li>
+				<li>Muscat is the capital of Oman</li> 
+				<li>Muscat</li>
+			</random>
+		</template>
+</category>
+
+<!-- 130 1P -->
+
+<category>
+	<pattern>
+	  PAKISTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Pakistan is Islamabad</li>
+				<li>Islamabad is the capital of Pakistan</li> 
+				<li>Islamabad</li>
+			</random>
+		</template>
+</category>
+
+<!-- 131 2P -->
+
+<category>
+	<pattern>
+	  PALAU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Palau is Ngerulmud</li>
+				<li>Ngerulmud is the capital of Palau</li> 
+				<li>Ngerulmud</li>
+			</random>
+		</template>
+</category>
+
+<!-- 132 3P -->
+
+<category>
+	<pattern>
+	  PANAMA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Panama is Panama City</li>
+				<li>Panama City is the capital of Panama</li> 
+				<li>Panama City</li>
+			</random>
+		</template>
+</category>
+
+<!-- 133 4P -->
+
+<category>
+	<pattern>
+	  PAPUA NEW GUINEA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Papua New Guinea is Port Moresby</li>
+				<li>Port Moresby is the capital of Papua New Guinea</li> 
+				<li>Port Moresby</li>
+			</random>
+		</template>
+</category>
+
+<!-- 134 5P -->
+
+<category>
+	<pattern>
+	  PARAGUAY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Paraguay is Asunción</li>
+				<li>Asunción is the capital of Paraguay</li> 
+				<li>Asunción</li>
+			</random>
+		</template>
+</category>
+
+<!-- 135 6P -->
+
+<category>
+	<pattern>
+	  PERU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Peru is Lima</li>
+				<li>Lima is the capital of Peru</li> 
+				<li>Lima</li>
+			</random>
+		</template>
+</category>
+
+<!-- 136 7P -->
+
+<category>
+	<pattern>
+	PHILIPPINES
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of The Philippines is Manila</li>
+				<li>Manila is the capital of the Philippines</li> 
+				<li>Manila</li>
+			</random>
+		</template>
+</category>
+
+<!-- 137 8P -->
+
+<category>
+	<pattern>
+	  POLAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Poland is Warsaw</li>
+				<li>Warsaw is the capital of Poland</li> 
+				<li>Warsaw</li>
+			</random>
+		</template>
+</category>
+
+<!-- 138 9P -->
+
+<category>
+	<pattern>
+	  PORTUGAL
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Portugal is Lisbon</li>
+				<li>Lisbon is the capital of Portugal</li> 
+				<li>Lisbon</li>
+			</random>
+		</template>
+</category>
+
+<!-- 139 Q1 -->
+
+<category>
+	<pattern>
+	  QATAR
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Qatar is Doha</li>
+				<li>Doha is the capital of Qatar</li> 
+				<li>Doha</li>
+			</random>
+		</template>
+</category>
+
+<!-- 140 R1 -->
+
+<category>
+	<pattern>
+	  Romania
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Romania is Bucharest</li>
+				<li>Bucharest is the capital of Romania</li> 
+				<li>Bucharest</li>
+			</random>
+		</template>
+</category>
+
+<!-- 141 R2 -->
+
+<category>
+	<pattern>
+	  RUSSIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Russia is Moscow</li>
+				<li>Moscow is the capital of Russia</li> 
+				<li>Moscow</li>
+			</random>
+		</template>
+</category>
+
+<!-- 142 R3 -->
+
+<category>
+	<pattern>
+	  RWANDA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Rwanda is Kigali</li>
+				<li>Kigali is the capital of Rwanda</li> 
+				<li>Kigali</li>
+			</random>
+		</template>
+</category>
+
+<!-- 143 S1 -->
+
+<category>
+	<pattern>
+	  SAINT KITTS AND NEVIS
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Saint Kitts and Nevis is Basseterre</li>
+				<li>Basseterre is the capital of Saint Kitts and Nevis</li> 
+				<li>Basseterre</li>
+			</random>
+		</template>
+</category>
+
+<!-- 144 S2 -->
+
+<category>
+	<pattern>
+	  SAINT LUCIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Saint Lucia is Castries</li>
+				<li>Castries is the capital of Saint Lucia</li> 
+				<li>Castries</li>
+			</random>
+		</template>
+</category>
+
+<!-- 145 S3 -->
+
+<category>
+	<pattern>
+	  SAINT VINCENT AND THE GRENADINES
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Saint Vincent and the Grenadines is Kingstown</li>
+				<li>Kingstown is the capital of Saint Vincent and the Grenadines</li> 
+				<li>Kingstown</li>
+			</random>
+		</template>
+</category>
+
+<!-- 146 S4 -->
+
+<category>
+	<pattern>
+	  SAMOA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Samoa is Apia</li>
+				<li>Apia is the capital of Samoa</li> 
+				<li>Apia</li>
+			</random>
+		</template>
+</category>
+
+<!-- 147 S5 -->
+
+<category>
+	<pattern>
+	  SAN MARINO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of San Marino is San Marino</li>
+				<li>San Marino is the capital of San Marino</li> 
+				<li>San Marino</li>
+			</random>
+		</template>
+</category>
+
+<!-- 147 S6 -->
+
+<category>
+	<pattern>
+	  SAO TOME AND PRINCIPE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Sao Tome and Principe is São Tomé</li>
+				<li>São Tomé is the capital of Sao Tome and Principe</li> 
+				<li>São Tomé</li>
+			</random>
+		</template>
+</category>
+
+<!-- 148 S7 -->
+
+<category>
+	<pattern>
+	  SAUDI ARABIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Saudi Arabia is Riyadh</li>
+				<li>Riyadh is the capital of Saudi Arabia</li> 
+				<li>Riyadh</li>
+			</random>
+		</template>
+</category>
+
+<!-- 149 S8 -->
+
+<category>
+	<pattern>
+	  SENEGAL
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Senegal is Dakar</li>
+				<li>Dakar is the capital of Senegal</li> 
+				<li>Dakar</li>
+			</random>
+		</template>
+</category>
+
+<!-- 150 S9 -->
+
+<category>
+	<pattern>
+	  SERBIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Serbia is Belgrade</li>
+				<li>Belgrade is the capital of Serbia</li> 
+				<li>Belgrade</li>
+			</random>
+		</template>
+</category>
+
+<!-- 151 S10 -->
+
+<category>
+	<pattern>
+	SEYCHELLES
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the Seychelles is Victoria</li>
+				<li>Victoria is the capital of the Seychelles</li> 
+				<li>Victoria</li>
+			</random>
+		</template>
+</category>
+
+<!-- 152 S11 -->
+
+<category>
+	<pattern>
+	  SIERRA LEONE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Sierra Leone is Freetown</li>
+				<li>Freetown is the capital of Sierra Leone</li> 
+				<li>Freetown</li>
+			</random>
+		</template>
+</category>
+
+<!-- 153 S12 -->
+
+<category>
+	<pattern>
+	  SINGAPORE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Singapore is Singapore</li>
+				<li>Singapore is the capital of Singapore</li> 
+				<li>Singapore</li>
+			</random>
+		</template>
+</category>
+
+<!-- 154 S13 -->
+
+<category>
+	<pattern>
+	  SLOVAKIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Slovakia is Bratislava</li>
+				<li>Bratislava is the capital of Slovakia</li> 
+				<li>Bratislava</li>
+			</random>
+		</template>
+</category>
+
+<!-- 155 S14 -->
+
+<category>
+	<pattern>
+	  SLOVENIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Slovenia is Ljubljana</li>
+				<li>Ljubljana is the capital of Slovenia</li> 
+				<li>Ljubljana</li>
+			</random>
+		</template>
+</category>
+
+<!-- 156 S15 -->
+
+<category>
+	<pattern>
+	  SOUTH AFRICA
+	 </pattern>
+		<template>
+		South Africas has 3 capitals. Petoria(administrative); Cape Town(legislative); Bloefontein(judicial)
+		</template>
+</category>
+
+<!-- 157 S15 -->
+
+<category>
+	<pattern>
+	  SOUTH KOREA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of South Korea is Seoul</li>
+				<li>Seoul is the capital of South Korea</li> 
+				<li>Seoul</li>
+			</random>
+		</template>
+</category>
+
+<!-- 158 S16 -->
+
+<category>
+	<pattern>
+	  SOUTH SUDAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of South Sudan is Juba</li>
+				<li>Juba is the capital of South Sudan</li> 
+				<li>Juba</li>
+			</random>
+		</template>
+</category>
+
+<!-- 159 S17 -->
+
+<category>
+	<pattern>
+	  SRI LANKA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Sri Lanka is Sri Jayawardenepura Kotte</li>
+				<li>Sri Jayawardenepura Kotte is the capital of Sri Lanka</li> 
+				<li>Sri Jayawardenepura Kotte</li>
+			</random>
+		</template>
+</category>
+
+<!-- 160 S18 -->
+
+<category>
+	<pattern>
+	  SUDAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Sudan is Khartoum</li>
+				<li>Khartoum is the capital of Sudan</li> 
+				<li>Khartoum</li>
+			</random>
+		</template>
+</category>
+
+<!-- 161 S19 -->
+
+<category>
+	<pattern>
+	  SURINAME
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Suriname is Paramaribo</li>
+				<li>Paramaribo is the capital of Suriname</li> 
+				<li>Paramaribo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 162 S20 -->
+
+<category>
+	<pattern>
+	  SWAZILAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Swaziland is Mbabane</li>
+				<li>Mbabane is the capital of Swaziland</li> 
+				<li>Mbabane</li>
+			</random>
+		</template>
+</category>
+
+<!-- 163 S21 -->
+
+<category>
+	<pattern>
+	  SWEDEN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Sweden is Stockholm</li>
+				<li>Stockholm is the capital of Sweden</li> 
+				<li>Stockholm</li>
+			</random>
+		</template>
+</category>
+
+<!-- 164 S22 -->
+
+<category>
+	<pattern>
+	  SWITZERLAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Switzerland is Bern</li>
+				<li>Bern is the capital of Switzerland</li> 
+				<li>Bern</li>
+			</random>
+		</template>
+</category>
+
+<!-- 165 S23 -->
+
+<category>
+	<pattern>
+	  SYRIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Syria is Damascus</li>
+				<li>Damascus is the capital of Syria</li> 
+				<li>Damascus</li>
+			</random>
+		</template>
+</category>
+
+<!-- 166 T1 -->
+
+<category>
+	<pattern>
+	  TAIWAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Taiwan is Taipei</li>
+				<li>Taipei is the capital of Taiwan</li> 
+				<li>Taipei</li>
+			</random>
+		</template>
+</category> 
+<category>
+	<pattern>
+	Chinese Taipei
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Taiwan is Taipei</li>
+				<li>Taipei is the capital of Taiwan</li> 
+				<li>Taipei</li>
+			</random>
+		</template>
+</category>
+
+<!-- 167 T2 -->
+
+<category>
+	<pattern>
+	  TAJIKISTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Tajikistan is Dushanbe</li>
+				<li>Dushanbe is the capital of Tajikistan</li> 
+				<li>Dushanbe</li>
+			</random>
+		</template>
+</category>
+
+<!-- 168 T3 -->
+
+<category>
+	<pattern>
+	  TANZANIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Thailand is Dodoma</li>
+				<li>Dodoma is the capital of Tanzania</li> 
+				<li>Dodoma</li>
+			</random>
+		</template>
+</category>
+
+<!-- 169 T4 -->
+
+<category>
+	<pattern>
+	  THAILAND
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Thailand is Bangkok</li>
+				<li>Bangkok is the capital of Samoa</li> 
+				<li>https://www.youtube.com/watch?v=rgc_LRjlbTU</li>
+			</random>
+		</template>
+</category>
+
+<!-- 170 T5 -->
+
+<category>
+	<pattern>
+	  TIMOR LESTE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Timor-Leste is Dili</li>
+				<li>Dili is the capital of Timor-Leste</li> 
+				<li>Dili</li>
+			</random>
+		</template>
+</category>
+
+<!-- 171 T6 -->
+
+<category>
+	<pattern>
+	  TOGO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Togo is Lomé</li>
+				<li>Lomé is the capital of Togo</li> 
+				<li>Lomé</li>
+			</random>
+		</template>
+</category>
+
+<!-- 172 T7 -->
+
+<category>
+	<pattern>
+	  TONGA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Tonga is Nukuʻalofa</li>
+				<li>Nukuʻalofa is the capital of Tonga</li> 
+				<li>Nukuʻalofa</li>
+			</random>
+		</template>
+</category>
+
+<!-- 173 T8 -->
+
+<category>
+	<pattern>
+	  TRINIDAD AND TOBAGO
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Trinidad and Tobago is Port of Spain</li>
+				<li>Port of Spain is the capital of Trinidad and Tobago</li> 
+				<li>Port of Spain</li>
+			</random>
+		</template>
+</category>
+
+<!-- 174 T9 -->
+
+<category>
+	<pattern>
+	  TUNISIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Tunis is Tunisia</li>
+				<li>Tunis is the capital of Tunisia</li> 
+				<li>Tunis</li>
+			</random>
+		</template>
+</category>
+
+<!-- 175 T10 -->
+
+<category>
+	<pattern>
+	  TURKEY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Turkey is Ankara</li>
+				<li>Ankara is the capital of Turkey</li> 
+				<li>Ankara</li>
+			</random>
+		</template>
+</category>
+
+<!-- 176 T11 -->
+
+<category>
+	<pattern>
+	  TURKMENISTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Turkmenistan is Apia</li>
+				<li>Ashgabat is the capital of Turkmenistan</li> 
+				<li>Ashgabat</li>
+			</random>
+		</template>
+</category>
+
+<!-- 177 T12 -->
+
+<category>
+	<pattern>
+	  TUVALU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Tuvalu is Funafuti</li>
+				<li>Funafuti is the capital of Tuvalu</li> 
+				<li>Funafuti</li>
+			</random>
+		</template>
+</category>
+
+<!-- 178 U1 -->
+
+<category>
+	<pattern>
+	  UGANDA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Uganda is Kampala</li>
+				<li>Kampala is the capital of Uganda</li> 
+				<li>Kampala</li>
+			</random>
+		</template>
+</category>
+
+<!-- 179 U2 -->
+
+<category>
+	<pattern>
+	  UKRAINE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Ukraine is Kyiv</li>
+				<li>Kyiv is the capital of Ukraine</li> 
+				<li>Kyiv</li>
+			</random>
+		</template>
+</category>
+
+<!-- 180 U3 -->
+
+<category>
+	<pattern>
+	  UNITED ARAB EMIRATES
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the United Arab Emirates is Abu Dhabi</li>
+				<li>Abu Dhabi is the capital of the United Arab Emirates</li> 
+				<li>Abu Dhabi</li>
+			</random>
+		</template>
+</category>
+
+<!-- 181 U4 -->
+
+<category>
+	<pattern>
+	  UNITED KINGDOM  
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the United Kingdom is London</li>
+				<li>London is the capital of the United Kingdom</li> 
+				<li>London</li>
+			</random>
+		</template>
+</category> 
+
+<category>
+	<pattern>
+	  UK 
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of the United Kingdom is London</li>
+				<li>London is the capital of the United Kingdom</li> 
+				<li>London</li>
+			</random>
+		</template>
+</category>
+
+<!-- 182 U5 -->
+
+<category>
+	<pattern>
+	 UNITED STATES OF AMERICA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of United States of America is Washington, D.C.</li>
+				<li>Washington, D.C. is the capital of United States of America</li> 
+				<li>Washington, D.C.</li>
+			</random>
+		</template>
+</category>
+<category>
+	<pattern>
+	  USA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of United States of America is Washington, D.C.</li>
+				<li>Washington, D.C. is the capital of United States of America</li> 
+				<li>Washington, D.C.</li>
+			</random>
+		</template>
+</category>
+
+<!-- 183 U6 -->
+
+<category>
+	<pattern>
+	  URUGUAY
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Uruguay is Uruguay</li>
+				<li>Uruguay is the capital of Uruguay</li> 
+				<li>Montevideo</li>
+			</random>
+		</template>
+</category>
+
+<!-- 184 U7 -->
+
+<category>
+	<pattern>
+	  UZBEKISTAN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Uzbekistan is Tashkent</li>
+				<li>Tashkent is the capital of Uzbekistan</li> 
+				<li>Tashkent</li>
+			</random>
+		</template>
+</category>
+
+<!-- 185 V1 -->
+
+<category>
+	<pattern>
+	  VANUATU
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Vanuatu is Port Vila</li>
+				<li>Port Vila is the capital of Vanuatu</li> 
+				<li>Port Vila</li>
+			</random>
+		</template>
+</category>
+
+<!-- 186 V2 -->
+
+<category>
+	<pattern>
+	  VATICAN CITY 
+	 </pattern>
+		<template>
+			Vatican city is a city state, and therefore is its own capital. 	
+		</template>
+</category>
+
+<!-- 187 V3 -->
+
+<category>
+	<pattern>
+	  VENEZUELA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Venezuela is  Caracas</li>
+				<li>Caracas is the capital of Venezuela</li> 
+				<li>Caracas</li>
+			</random>
+		</template>
+</category>
+
+<!-- 188 V4 -->
+
+<category>
+	<pattern>
+	  VIETNAM
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Vietnam is Hanoi</li>
+				<li>Hanoi is the capital of Vietnam</li> 
+				<li>Hanoi</li>
+			</random>
+		</template>
+</category>
+
+<!-- 189 Y1 -->
+
+<category>
+	<pattern>
+	  YEMEN
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Yemen is Sana'a</li>
+				<li>Sana'a is the capital of Yemen</li> 
+				<li>Sana'a</li>
+			</random>
+		</template>
+</category>
+
+<!-- 190 Z1 -->
+
+<category>
+	<pattern>
+	  ZAMBIA
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Zambia is Lusaka</li>
+				<li>Lusaka is the capital of Zambia</li> 
+				<li>Lusaka</li>
+			</random>
+		</template>
+</category>
+
+<!-- 191 Z2 -->
+
+<category>
+	<pattern>
+	  ZIMBABWE
+	 </pattern>
+		<template>
+			<random>
+				<li>The capital of Zimbabwe is Harare</li>
+				<li>Harare is the capital of Zimbabwe</li> 
+				<li>Harare</li>
+			</random>
+		</template>
+</category>
+
+</aiml>

@@ -1,0 +1,32 @@
+<aiml>
+
+<category>
+	<pattern>
+		*
+	</pattern>
+		<template>
+			I'm Sorry. I dont understand. Perphaps you mistyped the countries name?
+		</template>
+		</category>
+
+<category>
+	<platform>
+		WHAT CAN YOU DO
+	</platform>
+		<template>
+			I can tell you the captial of any country, just tweet me the name of the country, and ill tweet you back the captial.		</template>
+</category>
+
+<category>
+	<platform>
+		HELLO 
+	</platform>
+		<template>
+			Hi, im GeoBot. 
+		</template>
+			</category>
+
+
+
+
+</aiml>

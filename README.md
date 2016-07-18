@@ -1,2 +1,4 @@
 # Geobot
-chatbot that knows the capital of every country.
+A chatbot that knows the capital of every country.
+
+Created by David Ciaffoni in 2016. 
